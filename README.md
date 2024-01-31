@@ -49,4 +49,8 @@
   <a href=https://github.com/jayveer722?tab=repositories title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
+<h1>
+  Thanks to mrijoo
+</h1>
+
 <hr>
