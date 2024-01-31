@@ -1,4 +1,4 @@
-## Hi there, I'm IZO <img src="https://raw.githubusercontent.com/jayveer722/mrijoo/master/Assets/Hi.gif" width="29px">
+## Hi there, I'm Jayveer <img src="https://raw.githubusercontent.com/jayveer722/mrijoo/master/Assets/Hi.gif" width="29px">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/jayveerjayveer722ijoo/master/Assets/octocat.gif" />
 
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on my side project
 - 🌱 I’m currently learning typescript
 - ✨ Interested in backend-ish things 
-- 💬 Ask me about anything [here](https://hub.izo.my.id/)
+- 💬 Ask me about anything [here](https://discord.com/invite/ASd7RbDp)
 
 <br>
 
